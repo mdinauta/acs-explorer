@@ -6,6 +6,6 @@ This demo uses US population data from the American Community Survery. The funct
 
 ## How to run
 
-The quickest way to run the code is right from github. Install the load R's Shiny package, and run:
+The quickest way to run the code is directly from github. Install and load R's Shiny package, and run:
 
     runUrl("https://github.com/mdinauta/acs-explorer/archive/master.zip")
